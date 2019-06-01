@@ -1,7 +1,7 @@
 # BangkokBank_Pay_Magento_2
 ## DPO PayGate Magento plugin v2.2.9 for Magento v2.3.1
 
-This is the Payment Gateway Bangkok plugin for Magento 2. Please feel free to contact the Kriwee at k.kriwee@gmail.com should you require any assistance.
+This is the BangkokBank Payment Gateway plugin for Magento 2. Please feel free to contact the Kriwee at k.kriwee@gmail.com should you require any assistance.
 
 ## Installation
 [![How To Setup DPO | PayGate PayWeb for Magento 2](https://www.appinlet.com/wp-content/uploads/2018/09/Magento-2-Integration.jpg)](https://www.youtube.com/watch?v=JtDTm49cWmU "How To Setup DPO | PayGate PayWeb for Magento 2")
